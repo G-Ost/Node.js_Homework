@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Jan",
+        "username": "janko",
+        "email": "jan@nowak.abc"
+    },
+    {
+        "id": 2,
+        "name": "Jan",
+        "username": "janko",
+        "email": "jan@nowak.abc"
+    },
+    {
+        "id": 4,
+        "name": "Geralt",
+        "username": "zRivii",
+        "email": "geralt@szkolawilka.tr"
+    },
+    {
+        "id": 5,
+        "name": "Jan",
+        "username": "janko",
+        "email": "jan@nowak.abc"
+    }
+]
